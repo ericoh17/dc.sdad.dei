@@ -10,6 +10,11 @@
     "short_description": "Digital Equity Index captures the relative equity of digital access, with 0 being a score of relative equity and 100 being relative inequity.",
     "long_description": "The Digital Equity Index (DEI) is a composite variable indicating the degree of broadband equity as it relates to adoption, accessibility, and infrastructure. It ranges from 0 to 100, where 100 indicates the most equitable broadband access. The DEI is constructed at the Census tract level and is composed of the following variables: percent of the population under 65 years of age, percent of the population with at least a high school education, percent of the population with income below the poverty level, percent of the population without a disability, the ratio between the share of homes making $75,000 or more per year with internet and the share of homes making less than $35,000 per year without internet, percent of the population with at least one computer, percent of the population with internet access, percent of the population that is low income (less than 30% of HUD Area Median Family Income) and have a housing cost burden over 30%, and average download speeds, upload speeds, and latency from Ookla speed tests.",
     "statement": "The Digital Equity Index for {features.name} is {value}.",
+    "equity_category": [
+      "Accessibility",
+      "Availability",
+      "Affordability"
+    ],
     "citations": [
       "gallardo20"
     ],
@@ -39,6 +44,11 @@
     "type": "index",
     "citations": [
       "gallardo20"
+    ],
+    "equity_category": [
+      "Accessibility",
+      "Availability",
+      "Affordability"
     ],
     "sources": [
       {
