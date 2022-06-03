@@ -62,5 +62,20 @@
         "url": "https://www.ookla.com/ookla-for-good/open-data"
       }
     ]
+  },
+  "_references": {
+    "gallardo20": {
+      "id": "gallardo20",
+      "author": [
+        {
+          "given": "Robert",
+          "family": "Gallardo"
+        }
+      ],
+      "year": 2020,
+      "title": "Digital Divide Index",
+      "journal": "Purdue Center for Regional Development",
+      "url": "http://pcrd.purdue.edu/ddi"
+    }
   }
 }
